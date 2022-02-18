@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barrier
+* source:	https://sketchfab.com/3d-models/barrier-1f050e97a70b44ff81d4bfb61d2b0b09
+* author:	19148539 (https://sketchfab.com/19148539)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barrier" (https://sketchfab.com/3d-models/barrier-1f050e97a70b44ff81d4bfb61d2b0b09) by 19148539 (https://sketchfab.com/19148539) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
